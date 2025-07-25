@@ -1,0 +1,4 @@
+baseURL = "https://quangiacongnghe-blog.netlify.app/"
+languageCode = "en-us"
+title = "Quangia Congnghe Blog"
+theme = "ananke"
